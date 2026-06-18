@@ -51,3 +51,9 @@ Raw Data
 ## Dataset
 
 Netflix Titles Dataset
+
+## Author
+
+Avinash Kumar
+
+Data Analytics Portfolio Project

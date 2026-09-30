@@ -1,0 +1,35 @@
+BUSINESS PROBLEMS-
+- Which type of content perform better
+INSIGHTS:
+- Movies performance are much better than TV Shows.
+DECISION:
+For future, Netflix should increase TV Shows for high retention.
+
+BUSINESS PROBLEMS-
+- Which country contribute more content
+INSIGHTS:
+- United states clearly dominating for contribution the highest content, followed by India and United Kingdom.
+DECISION:
+- Strong investment and creator partnerships should continue in these regions.
+
+BUSINESS PROBLEMS-
+- Year wise release trend
+INSIGHTS:
+- Netflix added content rapidly in recent years.
+DECISION:
+- After 2010 Netflix expanded content strategy.
+
+BUSINESS PROBLEMS-
+- Which category dominated on Netflix
+INSIGHTS:
+- Adult category is dominating followed by Teen.
+DECISION:
+- Kids/Family category content also deserves more space.
+
+BUSINESS PROBLEMS-
+- Which content Netflix should focus on
+
+RECOMMENDATION:
+- They should have increase number of TV Shows content.
+- Increase more partnerships and collaborations in India, UK, Canada etc.
+- They should have more focused on Kid/Family content as well.
